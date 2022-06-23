@@ -29,6 +29,8 @@ const count = ref(0)
     in your IDE for a better DX
   </p>
   <p class="read-the-docs">Click on the Vite and Vue logos to learn more</p>
+
+  <ResultTable />
 </template>
 
 <style scoped>
